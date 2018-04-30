@@ -1,2 +1,2 @@
-# 663FinalProject-Ye-Zhang
-# 663FinalProject-Ye-Zhang
+STA 663 Final Project
+Infinite Latent Features and Indian Buffet Process
