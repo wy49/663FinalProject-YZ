@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
       name='IBP',
       version=1.0,
-      url='https://github.com/wy49/663FinalProject-Ye-Zhang',
+      url='https://github.com/wy49/663FinalProject-YZ',
       description='Infinite Latent Feature Models and the Indian Buffet Process',
       author='Wenwen Ye, Kuazhuo Zhang',
       license='BSD',
